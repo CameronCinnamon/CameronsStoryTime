@@ -24,3 +24,20 @@ Author: CameronCinnamon <cinnamonc@student.swosu.edu>
 Date:   Wed Aug 30 14:08:37 2017 -0500
 
     first commit
+commit 81f855ffae4876ea4bbf613aa6e83b97a2760661
+Author: CameronCinnamon <cinnamonc@student.swosu.edu>
+Date:   Wed Aug 30 15:06:45 2017 -0500
+
+    added git log to CameronsStoryTime
+
+commit 69428047682f41b99d2afdb55774cb3981dba225
+Author: CameronCinnamon <cinnamonc@student.swosu.edu>
+Date:   Wed Aug 30 14:47:42 2017 -0500
+
+    added my story
+
+commit 2bc866dac9e779a9ad9cead3afd456afab81a077
+Author: CameronCinnamon <cinnamonc@student.swosu.edu>
+Date:   Wed Aug 30 14:08:37 2017 -0500
+
+    first commit

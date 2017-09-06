@@ -7,3 +7,5 @@ The cat no longer likes to be fed people food.
 My room-mate, whom I met yesturday, is curruenty standing in my closet trying to feed his television cable throught the port.
 
 ## Josh's Contributions
+
+I made a branch here on Cameron's repo. Feels weird to be operating inside someone elses repository. I'm sure I'll get used to it in time.
